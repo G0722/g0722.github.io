@@ -1532,8 +1532,9 @@ input, select, textarea {
 	}
 
 		header > p {
+			font-size: 12px;
 			margin: 0.5em 0 0 0;
-			color: #aaa;
+			color: #666;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2097,7 +2098,7 @@ input, select, textarea {
 
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
-						font-size: 1.25em;
+						font-size: 0.8em;
 						margin: 0.25em 0 0 0;
 					}
 
